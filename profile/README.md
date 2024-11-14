@@ -1,7 +1,4 @@
-
-## 🎉 Purpose
-
-_"We exist to build great things"_
+🎉 Purpose: _"We exist to build great things"_
 
 This means that we:
 
