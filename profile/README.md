@@ -1,4 +1,4 @@
-🎉 Purpose: _"We exist to develop great things"_
+🎉 Purpose: _"We exist to develop simple things"_
 
 This means that we:
 
