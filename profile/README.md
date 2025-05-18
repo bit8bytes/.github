@@ -4,7 +4,7 @@ bit8bytes' fundamental, inviolable Values and Beliefs are these:
 - MEANINGFUL: All things we develop and build—from products to relationships—will be driven by goodness.
 - DEEPLY HONEST: We truly believe that honesty and transparency will deepen our relationships with employees and customers and empower them to do the same.
 
-These Core Values and Beliefs form our following Purpose: _"We exist to develop simple things."_
+These Core Values and Beliefs form our following Purpose: _"We exist to develop simple, seucre, and lightweight things."_
 
 We are driven by these values. Therefore, our Mission until 2034 is: _"To become a truly great software company."_
 
