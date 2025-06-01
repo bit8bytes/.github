@@ -1,6 +1,6 @@
 bit8bytes' fundamental, inviolable Values and Beliefs are these:
 
-- TRULY SIMPLE: Everything we develop and build must be minified, unique, and simplified.
+- TRULY SIMPLE: Everything we develop and build must be simple, secure and lightweight.
 - MEANINGFUL: All things we develop and build—from products to relationships—will be driven by goodness.
 - DEEPLY HONEST: We truly believe that honesty and transparency will deepen our relationships with employees and customers and empower them to do the same.
 
